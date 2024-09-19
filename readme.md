@@ -1,6 +1,7 @@
 
 # Starbucks
-![1726706390052](image/readme/1726706390052.png)
+
+![Uploading starbucks.png…]()
 
 Bem-vindo ao projeto da página de destino do Starbucks! Este projeto foi criado utilizando  CSS e JavaScript para simular uma página inicial imaginária do Starbucks. A página é responsiva, adaptando-se automaticamente a diferentes tamanhos de tela, desde smartphones até desktops.
 
